@@ -1,10 +1,8 @@
-from random import randrange, choice
 import pygame
 import utils
 from collections import namedtuple, OrderedDict
 from graph import Graph
 from tkinter import *
-from tkinter import ttk
 from tkinter import messagebox
 import os
 import time

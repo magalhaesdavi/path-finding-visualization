@@ -1,5 +1,4 @@
-from collections import defaultdict, deque, namedtuple
-import random
+from collections import defaultdict, namedtuple
 
 
 class Graph:
